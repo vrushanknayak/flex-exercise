@@ -24,7 +24,7 @@ p {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 600px;
     /* content will only be the size of its container till 1200px */
     width: 100%;
     padding: 5px;
